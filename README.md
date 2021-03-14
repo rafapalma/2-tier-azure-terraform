@@ -59,8 +59,8 @@ Update and Install:
 
 To deploy the infrastructure, run the command in the root folder:
 
-> `terraform init`
-> `terraform apply`
+> `terraform init`  
+> `terraform apply`  
 
 Terraform will show you the plan and all the resources that will be deployed in your account.
 
